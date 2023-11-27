@@ -37,7 +37,8 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Mock-Up
 
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
-![link to video](https://drive.google.com/file/d/1iPc2N9FQaQYZF_oH2TMBNSYgTXOqX-qe/view?usp=sharing)
+[link to video](https://drive.google.com/file/d/1iPc2N9FQaQYZF_oH2TMBNSYgTXOqX-qe/view?usp=sharing)
+
 ![PersonalLink](./Assets/mod13.mov)
 
 Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia.
